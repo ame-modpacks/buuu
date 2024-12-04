@@ -1,0 +1,161 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "86f7c7598f05a1d61c20031673fe83c8fd5d0f2f25214fe7ca6eca6f7b70e114"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "7ba990ce2509a23376debc95dc2ffdbe46cc3975c9d1aa1c6a6b02db66ccea87"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "a388f4afe890e268a739cf598b68859ca3d86506a3fa3e46c17e4aa63debd309"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "28d6efa091891b34587f5a03fd8973183d73be11e20b255706fb758326c3d92f"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "2a2210d83ab42b429f7a3717e97ed2a68b2fa8b4a73af1a25e75763efe7cefec"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "ac6063df22cfd65677177c0b37a7021ff4a3afdcd56ff8a886ff85997ebd1416"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "2a4e32365b962f7857d6003af7abee398a92919a5b3ddcd2a51ab9359b80865a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "494cc2e06f22b673603598ffe648758d5a7c7ddbdfdfa207c7bb5082ef522022"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e9a33f79f47433a442fbe50fda5e9f1fcf4341bd4bea561c4ec23e2743d64025"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "2f8c26de452ddf1fa8f754a3ffe1d01695c6c4ba1860b32d39f8e3b34965e338"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "8f3923f8cd83b8a347c613c06eadd1c39e2984d8cee5a9c1a59d6f09a3f59e6f"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "6fae91e98ead05c36e6278fd7e9e6d118c95f9639e5d330ac18b730458f433a4"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "4a513c96a85872c042d5b188141972fac53209afdca2b67356d2063ca243aea6"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "967412dd78791d3c8ed00470ac9dd9473d0d03fdf78d04a9a004ea79bfcbde70"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "00322f0c2a1ed0b9e28f823b3c7f5b40d3ede06db32f3d4aa4d1391a994c306a"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "e9bf45458454e7ceaa9fc33b271b9f408f27b69d5660652a5f7464fad94bb733"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "45577491d1f93575d7bf4ca55ed002e341b50cda9248fe59adf8eaa8f3c65034"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
+metafile = true
+
+[[files]]
+file = "mods/vmp-forge.pw.toml"
+hash = "18e0f9f0df336b60d2e77fa72c57b1066356cfecc06a2cd1968ee40ceef085a3"
+metafile = true

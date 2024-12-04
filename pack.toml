@@ -1,0 +1,13 @@
+name = "bu"
+author = "AmeMeida"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "14c16c1ec4c5ade3fef54c3ee9f72ccab56aa4b00491e69c6fdfefb94c7d38ac"
+
+[versions]
+forge = "47.3.12"
+minecraft = "1.20.1"
